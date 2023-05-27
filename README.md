@@ -6,4 +6,6 @@
 
 🚀 If your organization is seeking a software engineer with a sense of humor, integrity, and a relentless pursuit of excellence, I would love to chat! Feel free to reach out; I'm always open to engaging in meaningful conversations. Let's connect and explore exciting opportunities together!
 
-- LinkedIn: [Kimberley Bergstrom](https://linkedin.com/in/kimberley-bergstrom)
+## Connect with Me
+
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimberley-bergstrom)
