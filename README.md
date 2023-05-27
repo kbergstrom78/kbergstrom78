@@ -9,3 +9,6 @@
 ## Connect with Me
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimberley-bergstrom)
+
+## Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbergstrom78&theme=gruvbox&show_icons=true)
